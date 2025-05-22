@@ -47,7 +47,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-
-Sgkens Profile (wip)
-
-![My user statistics](images/userstats.svg)
