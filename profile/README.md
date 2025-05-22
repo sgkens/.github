@@ -2,7 +2,12 @@
 
 Some of the projects im working on :
 
-- 🔭 I'm currently working on ...
+_Most of my work site on gitlab:_
+ - [https://gitlab.com/sgkens](https://gitlab.com/sgkens)
+ - [https://gitlab.com/phellams](https://gitlab.com/phellams)
+ - [https://gitlab.com/cosmicshell](https://gitlab.com/cosmicshell)
+
+🔭 I'm currently working on ...
   - **bashprog** - A bash progress and spinner/loader generator
   - **loomwsbt** - A script/module to auto-install development binary packages and common Linux CLI command replacements and improvements
   - **cosmicshell** - A full-featured Jekyll theme
