@@ -1,5 +1,4 @@
 name: user-statistician
-
 on:
   schedule:
     - cron: '0 3 * * *'
@@ -18,4 +17,4 @@ jobs:
         max-languages: 100
         animated-language-chart: true
       env:
-        GH_TOKEN: ${{ github.SECRET }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
