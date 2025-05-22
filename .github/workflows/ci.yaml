@@ -18,4 +18,4 @@ jobs:
         max-languages: 100
         animated-language-chart: true
       env:
-        GITHUB_TOKEN: ${{secrets.SECRET}}
+        GH_TOKEN: ${{ github.SECRET }}
