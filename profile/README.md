@@ -29,9 +29,7 @@ _Most of my work site on gitlab:_
 
 > Bash: Initially intimidating, ultimately simple. Once you understand its limitations, you realize it's just a straightforward scripting language.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sgkens/.github/refs/heads/main/images/userstats.svg" />
-  <img src="https://raw.githubusercontent.com/phellams/phellams-general-resources/refs/heads/main/colorful-animals/elk.svg" width="512px" />
+<img src="https://raw.githubusercontent.com/sgkens/.github/refs/heads/main/images/userstats.svg" /> <img src="https://raw.githubusercontent.com/phellams/phellams-general-resources/refs/heads/main/colorful-animals/elk.svg" width="256" />
 </div>
 
 <!--
